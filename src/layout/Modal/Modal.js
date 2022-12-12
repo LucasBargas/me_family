@@ -17,10 +17,10 @@ const Modal = ({ setModal }) => {
         <div className="modal-area-content text-center">
           <h2 className="text-xl md:text-2xl font-bold">Lucas Bargas - MeFamily</h2>
 
-          <p className="mt-4">Esta aplicação web é uma réplica desenvolvida, a fins estudantis, por <a className="font-bold hover:underline" target="_blank" href="https://projetoslucasbargas.com/" rel="noopener noreferrer">Lucas Bargas</a>, com base em uma aplicação encontrada na web. Porém, toda a codificação é própria.</p>
+          <p className="mt-4">Esta aplicação web é uma réplica desenvolvida, a fins estudantis, por <a className="font-bold hover:underline" target="_blank" href="https://projetoslucasbargas.vercel.app/" rel="noopener noreferrer">Lucas Bargas</a>, com base em uma aplicação encontrada na web. Porém, toda a codificação é própria.</p>
 
           <div className="button-repo pt-2 pb-4">
-            <a className="font-bold hover:underline" target="_blank" href="https://github.com/LucasBargas/projetos_tailwindcss/tree/main/me_family" rel="noopener noreferrer">Clique aqui para visualizar o Repositório no GitHub</a>
+            <a className="font-bold hover:underline" target="_blank" href="https://github.com/LucasBargas/me_family" rel="noopener noreferrer">Clique aqui para visualizar o Repositório no GitHub</a>
           </div>
 
           <div>
