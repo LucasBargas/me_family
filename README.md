@@ -1,5 +1,5 @@
 ## Link para visualizar a aplicação
-<https://mefamily.projetoslucasbargas.com/>
+<https://me-family.vercel.app/>
 
 ### Por que desenvolvi esta aplicação
 Desenvolvi esta aplicação para praticar framerwork TailwindCSS junto do ReactJS. Encontrei esta aplicação na web e a considerei apropriada para isso.
